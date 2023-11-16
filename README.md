@@ -1,8 +1,9 @@
 ## <img src="./docs/sway-logo.png" width="36px" style="vertical-align:middle;"> My configs for [swayfx](https://github.com/WillPower3309/swayfx) (sway fork)
 ## ❤️ This dotfiles fully compatible with vanilla sway, just remove ```./config/sway/config.d/swayfx``` config file
-### Also check my '[sway keybindings helper](https://github.com/owpk/sway-keyhints)' project  
+### Also check their '[sway keybindings helper](https://github.com/owpk/sway-keyhints)' project  
+- i'll fork and recompile sway-keyhints for legacy devices
 
-- press ```Win + p``` to show keybindigs help
+- press ```Win + p``` to show keybindigs help (the config was broken lol)
 
 <p align=center style="margin-top:36px">	  
   <img src="https://img.shields.io/github/issues/owpk/dotfiles-swayfx?color=bf616a&labelColor=202328&style=for-the-badge">
@@ -79,25 +80,24 @@ ln -s /bin/alacritty /bin/xterm
 cp .azotebg ~/.azotebg
 ```
 
-5. install 'aura'
+5. install 'yay'
 
 ```
-git clone https://aur.archlinux.org/aura-bin.git
-cd aura-bin
-makepkg
-sudo pacman -U *.tar.zst
+git clone https://aur.archlinux.org/yay-bin.git
+cd yay-bin
+makepkg -si
 ```
 
 6. install menus/toolbars/utils etc for sway
  - use ```gpg --receive-keys``` if any errors occures
 ```
-sudo aura -A avizo
-sudo aura -A nwg-launchers
-sudo aura -A nwg-panel
-sudo aura -A wlsunset
-sudo aura -A sworkstyle
-sudo aura -A azote
-sudo aura -A audio-recorder
+sudo yay -S avizo
+sudo yay -S nwg-launchers
+sudo yay -S nwg-panel
+sudo yay -S wlsunset
+sudo yay -S sworkstyle
+sudo yay -S azote
+sudo yay -S audio-recorder
 ```
 ---
 (Optional) install ranger devicons
