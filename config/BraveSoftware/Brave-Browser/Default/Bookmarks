@@ -1,0 +1,252 @@
+{
+   "checksum": "2cc3238cc862b05995482fa4eb718ef2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13310132383000000",
+            "date_last_used": "0",
+            "guid": "a2e7f65b-08a6-4d62-8a00-4905ae955f56",
+            "id": "5",
+            "name": "GitHub - shasankp000/PyCraft: A Minecraft launcher made in python.",
+            "type": "url",
+            "url": "https://github.com/shasankp000/PyCraft"
+         }, {
+            "date_added": "13310462797000000",
+            "date_last_used": "13329690242921815",
+            "guid": "368e3c0a-169a-4804-9d3d-fa5056a68952",
+            "id": "6",
+            "name": "MineColonies - Mods - Minecraft - CurseForge",
+            "type": "url",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/minecolonies"
+         }, {
+            "date_added": "13310649494000000",
+            "date_last_used": "13330019647780655",
+            "guid": "74600df5-3840-45bb-973a-413a947ab6ce",
+            "id": "7",
+            "name": "GitHub - fn2006/PollyMC: Fork of PolyMC that adds Ely.by support and allows you to use offline mode without an account.",
+            "type": "url",
+            "url": "https://github.com/fn2006/PollyMC"
+         }, {
+            "date_added": "13310807652000000",
+            "date_last_used": "13334062803134368",
+            "guid": "6333f04e-d846-4afb-b211-33584d018325",
+            "id": "8",
+            "name": "UltimMC/Launcher: Cracked Minecraft launcher. Not related to the original developers.",
+            "type": "url",
+            "url": "https://github.com/UltimMC/Launcher"
+         }, {
+            "date_added": "13311255079000000",
+            "date_last_used": "13323973061171634",
+            "guid": "5e4e2df7-43f3-4133-b77c-bbfdef9fdde8",
+            "id": "9",
+            "name": "GOG Games | Download Free GOG PC Games",
+            "type": "url",
+            "url": "https://gog-games.com/"
+         }, {
+            "date_added": "13322754440205568",
+            "date_last_used": "13331939644987907",
+            "guid": "b65d49ca-77ca-44c9-84ee-76698348dda1",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NikGapps-Addon",
+            "type": "url",
+            "url": "https://sourceforge.net/projects/nikgapps/files/Releases/Addons-T/"
+         }, {
+            "date_added": "13311255079000000",
+            "date_last_used": "0",
+            "guid": "04f4bbd7-7455-4563-b012-b54c5d4c05bc",
+            "id": "11",
+            "name": "Hack The Box: Hacking Training For The Best | Individuals & Companies",
+            "type": "url",
+            "url": "https://www.hackthebox.com/"
+         }, {
+            "date_added": "13311255079000000",
+            "date_last_used": "0",
+            "guid": "21cc3b23-0053-4cad-bd96-18e970362c16",
+            "id": "12",
+            "name": "RITEMS",
+            "type": "url",
+            "url": "https://www.roblox.com/catalog?Category=13&CreatorName=rookvanguard"
+         }, {
+            "date_added": "13311255079000000",
+            "date_last_used": "0",
+            "guid": "2cc7618b-80c9-4dbb-9ab5-d8bf069242bf",
+            "id": "13",
+            "name": "[UPDATED] Recreated containers (No optifine) Minecraft Texture Pack",
+            "type": "url",
+            "url": "https://www.planetminecraft.com/texture-pack/furnace-to-3d-stove-no-optifine/"
+         }, {
+            "date_added": "13311255079000000",
+            "date_last_used": "0",
+            "guid": "7007d0f6-8078-4680-aeb1-bf9a091175ba",
+            "id": "14",
+            "name": "VQGAN+CLIP (Hypertron v2) - a Hugging Face Space by multimodalart",
+            "type": "url",
+            "url": "https://huggingface.co/spaces/multimodalart/vqgan"
+         }, {
+            "date_added": "13311256395000000",
+            "date_last_used": "0",
+            "guid": "024a33bd-f360-4b5e-bc92-0396ef36e7fc",
+            "id": "15",
+            "name": "RITEMS 2",
+            "type": "url",
+            "url": "https://www.roblox.com/catalog?Category=0&CreatorName=Onigiri_Tsuki"
+         }, {
+            "date_added": "13311256433000000",
+            "date_last_used": "0",
+            "guid": "2f54c7a6-b74a-4cdd-89d4-c7b576fbc575",
+            "id": "16",
+            "name": "RITEMS 3",
+            "type": "url",
+            "url": "https://www.roblox.com/catalog?Category=0&CreatorName=GuestCapone"
+         }, {
+            "date_added": "13311950117000000",
+            "date_last_used": "0",
+            "guid": "9ac537b7-73e6-4d48-bd74-66cb6a3f2592",
+            "id": "17",
+            "name": "Prompt Extend - a Hugging Face Space by daspartho",
+            "type": "url",
+            "url": "https://huggingface.co/spaces/daspartho/prompt-extend"
+         }, {
+            "date_added": "13312628837000000",
+            "date_last_used": "0",
+            "guid": "4bdc5399-f4ad-4905-837f-e24e8355d59c",
+            "id": "18",
+            "name": "c++ faq - The Definitive C++ Book Guide and List - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list?rq=1"
+         }, {
+            "date_added": "13219440580000000",
+            "date_last_used": "0",
+            "guid": "89424bd9-fe1c-422e-8f8e-0cc9ef6e9b19",
+            "id": "19",
+            "name": "Come iniziare",
+            "type": "url",
+            "url": "https://www.mozilla.org/it/firefox/central/"
+         }, {
+            "date_added": "13312383265000000",
+            "date_last_used": "0",
+            "guid": "0a746578-3774-452c-898e-3fa34ead4e62",
+            "id": "20",
+            "name": " ProtonMail",
+            "type": "url",
+            "url": "https://mail.protonmail.com/u/0/inbox"
+         }, {
+            "date_added": "13312383265000000",
+            "date_last_used": "0",
+            "guid": "cf02f4ff-846b-4804-8f73-b8bafac5e77c",
+            "id": "21",
+            "name": "How to bypass a paywall (easy guide)",
+            "type": "url",
+            "url": "https://www.bardeen.ai/posts/how-to-bypass-a-paywall#:~:text=The%20easiest%20way%20to%20bypass%20a%20paywall%20is,made%20it%20impossible%20to%20read%20the%20restricted%20article."
+         }, {
+            "date_added": "13312990449000000",
+            "date_last_used": "0",
+            "guid": "01b4250a-4b18-410b-957a-1427b840be28",
+            "id": "22",
+            "name": "Defensive Measures - Mods - Minecraft - CurseForge",
+            "type": "url",
+            "url": "https://www.curseforge.com/minecraft/mc-mods/defensive-measures"
+         }, {
+            "date_added": "13311255079000000",
+            "date_last_used": "0",
+            "guid": "9b971d59-df1a-412f-86ec-c14f3df0e28f",
+            "id": "23",
+            "name": "Download - MEGA 11%",
+            "type": "url",
+            "url": "https://mega.nz/file/GQp0hbZA#gNW1SPu-EiMALl9SX5MWMbCYXHPKW9QfopzkZN7yLgA"
+         }, {
+            "date_added": "13315478546000000",
+            "date_last_used": "0",
+            "guid": "823c5675-7739-4bba-9a61-9338f7c5685d",
+            "id": "24",
+            "name": "Amazon.com. Spend less. Smile more.",
+            "type": "url",
+            "url": "https://smile.amazon.com/?ref_=smi_ge_cnf_cnf_smi&pldnNewCustomer=1#"
+         }, {
+            "date_added": "13311255079000000",
+            "date_last_used": "0",
+            "guid": "7b3fbc26-20f5-485a-bda4-74239c6f0d62",
+            "id": "25",
+            "name": "10 Best Hacking Tools For Windows 10 in 2022",
+            "type": "url",
+            "url": "https://www.techworm.net/2018/07/5-best-hacking-tools-windows-10.html"
+         }, {
+            "date_added": "13326359091938709",
+            "date_last_used": "0",
+            "guid": "435f0b71-fe51-4887-b144-b67d429825fe",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "React",
+            "type": "url",
+            "url": "https://react.dev/"
+         }, {
+            "date_added": "13326364352555883",
+            "date_last_used": "0",
+            "guid": "31239a5c-9ccd-4770-8dfd-3b3566568ae7",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "nomic-ai/gpt4all: gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue",
+            "type": "url",
+            "url": "https://github.com/nomic-ai/gpt4all"
+         }, {
+            "date_added": "13334252450784933",
+            "date_last_used": "0",
+            "guid": "ecfd7de4-f886-400e-8fea-093151673359",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ohno",
+            "type": "url",
+            "url": "javascript:void%20function(){function%20b(){var%20a=Math.floor;try{for(var%20b,c=parent.document.body.getElementsByTagName(%22*%22),d=!1;!d;)b=c[a(Math.random()*c.length)],%22jsRTC%22!=b.id%26%26(d=!0)}catch(a){alert(%22[This%20website%20is%20incompatible%20with%20jsRTC]%20%22+a.message)}return%20b}function%20c(){var%20c=b().classList[0],d=b();d.classList[0],d.classList.add(c);var%20e=b().classList[1],f=b();d.classList[1],f.classList.add(e)}function%20d(){for(i=0;i%3Ck;i++)c()}function%20e(){j=setInterval(function(){d()},l*(1e3/60))}function%20f(){clearTimeout(j)}function%20g(){var%20a=document.getElementById(%22jsRTC%22);a.parentNode.removeChild(a);var%20b=document.createElement(%22div%22);b.style.backgroundColor=%22%232C3C4C%22,b.style.width=%22190px%22,b.style.height=%22180px%22,b.style.color=%22white%22,b.style.padding=%2210px%2010px%2010px%2010px%22,b.style.position=%22fixed%22,b.style.borderWidth=%221px%22,b.style.borderStyle=%22solid%22,b.style.borderColor=%22black%22,b.style.left=%220px%22,b.style.top=%220px%22,b.style.fontFamily=%22Arial,%20Helvetica,%20sans-serif%22,b.style.zIndex=%2299999%22;var%20c=document.createElement(%22div%22);c.style.backgroundColor=%22%231B2530%22,c.style.width=%22210px%22,c.style.height=%2218px%22,c.style.color=%22white%22,c.style.position=%22fixed%22,c.style.left=%220px%22,c.style.top=%220px%22,c.style.paddingLeft=%2210px%22;var%20g=document.createElement(%22span%22);g.style.fontSize=%2210px%22,g.appendChild(document.createTextNode(%22jsRTC%20for%20Web%20pages%20(Safe%20mode)%22)),c.appendChild(g),b.appendChild(c),b.appendChild(document.createElement(%22br%22)),b.appendChild(document.createTextNode(%22Intensity:%20%22));var%20h=document.createElement(%22input%22);h.style.width=%22105px%22,h.style.marginLeft=%2210px%22,h.style.backgroundColor=%22%231B2530%22,h.style.color=%22white%22,h.style.borderSize=%221px%22,h.setAttribute(%22type%22,%22number%22),h.setAttribute(%22id%22,%22nmIntensity%22),h.setAttribute(%22min%22,%221%22),h.setAttribute(%22value%22,%221%22),h.onchange=function(){k=h.value},b.appendChild(h),b.appendChild(document.createElement(%22br%22)),b.appendChild(document.createElement(%22br%22)),b.appendChild(document.createTextNode(%22Error%20Delay:%20%22));var%20j=document.createElement(%22input%22);j.style.width=%2285px%22,j.style.marginLeft=%2210px%22,j.style.backgroundColor=%22%231B2530%22,j.style.color=%22white%22,j.setAttribute(%22type%22,%22number%22),j.setAttribute(%22id%22,%22nmErrorDelay%22),j.setAttribute(%22min%22,%221%22),j.setAttribute(%22value%22,%221%22),j.onchange=function(){l=j.value},b.appendChild(j),b.appendChild(document.createElement(%22br%22)),b.appendChild(document.createElement(%22br%22));var%20m=document.createElement(%22button%22);m.style.width=%22190px%22,m.innerHTML=%22Start%20Auto-Corrupt%22,m.style.backgroundColor=%22%231B2530%22,m.style.color=%22%23FF4500%22,m.style.border=%22none%22,m.style.padding=%2211px%2032px%22,m.onclick=function(){%22Start%20Auto-Corrupt%22==m.innerHTML%3F(m.innerHTML=%22Stop%20Auto-Corrupt%22,e()):(m.innerHTML=%22Start%20Auto-Corrupt%22,f())},b.appendChild(m),b.appendChild(document.createElement(%22br%22));var%20n=document.createElement(%22button%22);n.style.marginTop=%225px%22,n.style.width=%22190px%22,n.innerHTML=%22Manual%20Blast%22,n.style.backgroundColor=%22%231B2530%22,n.style.color=%22%23FF4500%22,n.style.border=%22none%22,n.style.padding=%2211px%2032px%22,n.onclick=function(){d()},b.appendChild(n),document.body.appendChild(b)}var%20h,j,a=!1,k=1,l=1;(function(){var%20b=new%20Blob([%22%3Chtml%3E%3Chead%3E%3Cscript%3Efunction%20getOne(){var%20e=parent.document.body.getElementsByTagName(\\%22*\\%22);if(!e)return%20void(parent.fallbackTrigger=!0);for(var%20t,n=!1;!n;)t=e[Math.floor(Math.random()*e.length)],\\%22jsRTC\\%22!=t.id%26%26(n=!0);return%20t%3Ft:void(parent.fallbackTrigger=!0)}function%20corruptOneCss(){var%20e=getOne().classList[0],t=getOne();t.classList[0],t.classList.add(e);var%20n=getOne().classList[1],r=getOne();t.classList[1],r.classList.add(n)}function%20Blast(){for(i=0;i%3Cintensity;i++)corruptOneCss()}function%20startAutoCorrupt(){t=setInterval(function(){Blast()},errordelay*(1e3/60))}function%20stopAutoCorrupt(){clearTimeout(t)}function%20displayPanel(){var%20e=(parent.document.body.getElementsByTagName(\\%22*\\%22),document.createElement(\\%22div\\%22));e.id=\\%22jsRtcPanel\\%22,e.name=\\%22jsRtcPanel\\%22,e.style.backgroundColor=\\%22%232C3C4C\\%22,e.style.width=\\%22190px\\%22,e.style.height=\\%22180px\\%22,e.style.color=\\%22white\\%22,e.style.padding=\\%2210px%2010px%2010px%2010px\\%22,e.style.position=\\%22fixed\\%22,e.style.borderWidth=\\%221px\\%22,e.style.borderStyle=\\%22solid\\%22,e.style.borderColor=\\%22black\\%22,e.style.left=\\%220px\\%22,e.style.top=\\%220px\\%22,e.style.fontFamily=\\%22Arial,%20Helvetica,%20sans-serif\\%22,e.style.zIndex=\\%2299999\\%22;var%20t=document.createElement(\\%22div\\%22);t.style.backgroundColor=\\%22%231B2530\\%22,t.style.width=\\%22210px\\%22,t.style.height=\\%2218px\\%22,t.style.color=\\%22white\\%22,t.style.position=\\%22fixed\\%22,t.style.left=\\%220px\\%22,t.style.top=\\%220px\\%22,t.style.paddingLeft=\\%2210px\\%22;var%20n=document.createElement(\\%22span\\%22);n.style.fontSize=\\%2210px\\%22,n.appendChild(document.createTextNode(\\%22jsRTC%20for%20Web%20pages\\%22)),t.appendChild(n),e.appendChild(t),e.appendChild(document.createElement(\\%22br\\%22)),e.appendChild(document.createTextNode(\\%22Intensity:%20\\%22));var%20r=document.createElement(\\%22input\\%22);r.style.width=\\%22105px\\%22,r.style.marginLeft=\\%2210px\\%22,r.style.backgroundColor=\\%22%231B2530\\%22,r.style.color=\\%22white\\%22,r.style.borderSize=\\%221px\\%22,r.setAttribute(\\%22type\\%22,\\%22number\\%22),r.setAttribute(\\%22id\\%22,\\%22nmIntensity\\%22),r.setAttribute(\\%22min\\%22,\\%221\\%22),r.setAttribute(\\%22value\\%22,\\%221\\%22),r.onchange=function(){intensity=r.value},e.appendChild(r),e.appendChild(document.createElement(\\%22br\\%22)),e.appendChild(document.createElement(\\%22br\\%22)),e.appendChild(document.createTextNode(\\%22Error%20Delay:%20\\%22));var%20l=document.createElement(\\%22input\\%22);l.style.width=\\%2285px\\%22,l.style.marginLeft=\\%2210px\\%22,l.style.backgroundColor=\\%22%231B2530\\%22,l.style.color=\\%22white\\%22,l.setAttribute(\\%22type\\%22,\\%22number\\%22),l.setAttribute(\\%22id\\%22,\\%22nmErrorDelay\\%22),l.setAttribute(\\%22min\\%22,\\%221\\%22),l.setAttribute(\\%22value\\%22,\\%221\\%22),l.onchange=function(){errordelay=l.value},e.appendChild(l),e.appendChild(document.createElement(\\%22br\\%22)),e.appendChild(document.createElement(\\%22br\\%22));var%20o=document.createElement(\\%22button\\%22);o.style.width=\\%22190px\\%22,o.innerHTML=\\%22Start%20Auto-Corrupt\\%22,o.style.backgroundColor=\\%22%231B2530\\%22,o.style.color=\\%22%23FF4500\\%22,o.style.border=\\%22none\\%22,o.style.padding=\\%2211px%2032px\\%22,o.onclick=function(){\\%22Start%20Auto-Corrupt\\%22==o.innerHTML%3F(o.innerHTML=\\%22Stop%20Auto-Corrupt\\%22,startAutoCorrupt()):(o.innerHTML=\\%22Start%20Auto-Corrupt\\%22,stopAutoCorrupt())},e.appendChild(o),e.appendChild(document.createElement(\\%22br\\%22));var%20a=document.createElement(\\%22button\\%22);a.style.marginTop=\\%225px\\%22,a.style.width=\\%22190px\\%22,a.innerHTML=\\%22Manual%20Blast\\%22,a.style.backgroundColor=\\%22%231B2530\\%22,a.style.color=\\%22%23FF4500\\%22,a.style.border=\\%22none\\%22,a.style.padding=\\%2211px%2032px\\%22,a.onclick=function(){Blast()},e.appendChild(a),document.body.appendChild(e),loaded=!0}var%20t,intensity=1,errordelay=1,loaded=!1%3C/script%3E%3C/head%3E%3Cbody%20onload=displayPanel()%3E%3C/body%3E%3C/html%3E%22],{type:%22text/html%22}),c=window.URL.createObjectURL(b),d=document.createElement(%22iframe%22);d.id=%22jsRTC%22,d.name=%22jsRTC%22,d.style.width=%22210px%22,d.style.height=%22200px%22,d.style.padding=%220px%200px%200px%200px%22,d.style.position=%22fixed%22,d.style.borderWidth=%221px%22,d.style.borderStyle=%22solid%22,d.style.borderColor=%22black%22,d.style.left=%220px%22,d.style.top=%220px%22,d.style.zIndex=%2299999%22,d.src=c,document.body.appendChild(d),h=setInterval(function(){a%26%26(clearTimeout(h),g()),a=!0;window.frames.jsRTC.document.getElementById(%22jsRtcPanel%22);a=!1},1e3)})()}();"
+         }, {
+            "date_added": "13344637164715542",
+            "date_last_used": "0",
+            "guid": "beaaec0b-b95c-4eeb-9f02-7ecc089640a7",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New Tab",
+            "type": "url",
+            "url": "https://www.google.com/search?q=-g+%22%24(slurp+-d)%22&oq=-g+%22%24(slurp+-d)%22&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIODE0OGowajGoAgCwAgA&sourceid=chrome&ie=UTF-8"
+         } ],
+         "date_added": "13344635345855348",
+         "date_last_used": "0",
+         "date_modified": "13344637164715542",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13344635345855350",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13344635345855351",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CooBChAIiIECEgrY+Kua+2IAAAAAEgAaWG5LV010M0tvdE51QVg1VC9PeFFmemVoTVdxM0p1WENRaTNoQ3ljTUdXZ1JaOHAxazk1YS9OeDh2amVlQzBoeTRmZFlGcHB5L2ZSTFBMd1dTaGl1b0x3PT0qGG5YYXFycitlNjZLRTNnQUFNUkdRekE9PUgDEqsBCB0SpgEKHElnRVJPd0ppdFlSak9RYm5hZ0tKcHB4V0ZzND0SJDAwNTI2ODNkLTlhOGYtNDVmNC04NTY5LTU1ZjQxOTAwYTYwZBgAIAIoAjCs/JXNvTE4remUzb0xQMP0lc29MUocdTVnbEc2L0FqNDNmbGVkc2lTVyt2SWtWYlNVPVoiIiD////1RDF6WDNRVlpRRWZKYnJjUmhYa2hxWGprNFIwPWUQMP/kEqsBCBsSpgEKHFdmL3g0eTRTdzBadWMzQkZadVNFdDRWQmlGTT0SJGVkODM3MzgzLTE2MjMtNDEwOS1hMjdjLTkzZTYyOTA1NWNjYxgAIAAoADCAkMWPkDE4rPCAxPkwQKzwgMT5MEocMWpxeHdZUnV0TDNUaWpmVVFHVjNwSzJBdEFFPVoiIiD////UUTlLTTIvZUxBNmxJVkkwQkJ5cWJicUVmL2pjPWXUTOjQEqsBCBoSpgEKHDVPYzd1TWowOG41ZldPU3ZOWmVJaVl5TndPYz0SJDZjOTJhNzI0LWIyNDctNGY2NC05YWIxLTgxMmNjYmE3NDUxMRgAIAAoADCg0r/B+TA44uW/wfkwQOLlv8H5MEocVUFWYXFvZnh1UGJwOVJQam1tUVVNbEtSMjBjPVoiIiD///+pSEdtNkZBRmpIQTRNZklCZHFvVTZHaVRJaHFZPWXKnjv8EqkBCA4SpAEKHDF1R2VzN0FhdmdCN29SRElmYUxRaHkyS0dvUT0SJDYwMDVjMWMxLTJkZDYtNGNhOS1iNWFlLWUxYWZjYjBhNzIzZRgAIAAoADCwtqH35TA42Mqf9+UwQNjKn/flMEocL2NPOVlyd3lsTXhlNW4zeWJPVTBmSDR3QzMwPVogIh7/9282N0FHNElqWDFEYWUrVVdJYmJCVm1LTEdTND1lAAAAABKqAQgWEqUBChxsWE16cTRESFZRMGJUVDNaeThkekF4RmdTOGM9EiQ4NmFiNzJlMC0xNDA3LTRmMGQtYTAyYS1jZWE0Y2M0MGI0YzQYACAAKAAwobah9+UwONjKn/flMEDYyp/35TBKHHlXdkNNeDBoRExkS1hRdGhEbzZUdlF5OVBGVT1aISIf///tSHY5QzlwVWpYbFRDNmk0MTVvM29mOGtkbXpZPWUAAAAAEqoBCBgSpQEKHE9NMURiMWF1UUxkcThESVdBSjVlemxVeGUzMD0SJGNkYzQ2MTAzLWNjNDctNDVmZi04ZmM4LTRjYjQ3ZWI4OTlhMxgAIAAoADDht6H35TA42Mqf9+UwQNjKn/flMEocWWthdmF3SlU0WmpOU2xOWnEveVFKb3VqeFFRPVohIh////tmZnA1UVpBb3htQjRwK1NyTlllUGE5ZTNaSmc9ZQAAAAASqgEIFxKlAQocTzVxWFlaMU43akZqN2ZNLzl4ZkRiOTdwS0djPRIkZTk3YTQ2OWMtNWU4Zi00YzFmLThlYzgtOWEwY2FkNjY5OGY4GAAgACgAMPG3offlMDjYyp/35TBA2Mqf9+UwShx6R04vSUJsR1J6V1AydnY1dU1NaHVycC9XQ2c9WiEiH///9lM3SFByNjhmS25nQ2JGckppTUxRMVRwbFpxMD1lAAAAABKqAQgZEqUBChxNQjRJS0o0T0t0R3lZb2Z4bElkanRwSUV3ZVE9EiQxNWZkYjQxYi0xYjU5LTQwZmItOTI1ZS0xZjFlODgxYTQ3ZWQYACAAKAAw65iJ3+owOK6Qid/qMECukInf6jBKHEJJMHpobW1hamh5ajRtTEJLWXcrQ2x3UVdzST1aISIf////U0UzSlZ5eCsyVUZNYS94YTc3VHk2azdXZ1JRPWUAAAAAEqoBCBQSpQEKHEI0QWZtOThpb3NVaUI1V3BUbVZJL3RkSWdEaz0SJGVjZjNiNmQ4LWYyZDAtNDUyZC1iMjJhLTVmODRlMGMzZTkzYRgAIAAoADD0tqH35TA42Mqf9+UwQNjKn/flMEocZjBxRHpiWHhsbjJ0OUV2Yk9nQUdOeVZvd0NjPVohIh///7ZYSEdlSEQzU0tLdGQrb2NTVFpuMkJmTCtLbWs9ZQAAAAASqQEIEhKkAQocemYvK3Y5UFRaWExBMitGd201TExCQllaQzZZPRIkOGQ4ODE3OGItNTNjYS00YTM4LTgyYjYtNjAxZDgyMzk5NTBlGAAgACgAMI+4offlMDjYyp/35TBA2Mqf9+UwShw0QmppdkdMRWtBNkl0RHJkN09RWHp0Q3VrVDg9WiAiHv//TmF6UEVpd0x6cnVoUTY1Y2MrNU16d3ltUFd3PWUAAAAAEqkBCBMSpAEKHHNvamM3MVMrc3VFSk0xcG8xblp0TDJzSnNEcz0SJDQyNDM4M2NkLTMzZmUtNGNlZC1hMDkwLWVlNmUxMzEwNWM3YhgAIAAoADC/tqH35TA42Mqf9+UwQNjKn/flMEocZXV5djBqV2R4RjhxeVBiQlBlcTd6R2llQ3dFPVogIh7//2xqMGUwNG42OHZmYThpSHI4dG8zSUttL3VYOD1lAAAAABKpAQgQEqQBChxvc0FoS00wVWh4aXNUbGJYVTdUbVI4SjgwRGM9EiQ2N2RiZjBmYy04MjRlLTRlMzgtYTdmZi03NTQ4MmZkZmMwNTAYACAAKAAwk7Wh9+UwONjKn/flMEDYyp/35TBKHHAxcmd2NStJMEsxMy9EOWVjR0ZpYWVIcEY3WT1aICIe//1makhwY2RtQTYybmVURmo1ejdWTlhSMU12R3c9ZQAAAAASqQEIDxKkAQocRHRrKzh1bGUzTEYzQ1J3S1lkMlpJZ20yc25vPRIkYmIxZDUyMzItOTUwYi00MjU4LTg2YjAtYzI4Zjg3NzZhZmVhGAAgACgAMIK3offlMDjYyp/35TBA2Mqf9+UwShxyTnZIVmtNYmhibGVNaDdjTklwazhIcEFCdHM9WiAiHv/7WXJRQ3JMS3ZwUmd6SlBiQm1ZRnJ6M205VmhzPWUAAAAAEqgBCAkSowEKHFRuMWtZRGY0NDlWNUl4bzhTR3VYT0poN0Z6RT0SJDZhMTMyZDg2LTQzZjktNGRjMy1hNTVkLTM4MDI5ZDBlY2FjZhgAIAAoADDBq7b+tjE42Mqf9+UwQNjKn/flMEocb1VhZGlTWnVFeHlOQ3hORENvZ2QxYUEyeXpvPVofIh32a1dPUWRrVmNEeml6bS9MK01qdEVZNXh5KzJBPWXLuCm6EqgBCAsSowEKHHJzV2lvdXJqNXhlWVRnZzJLNjV4SDloYzVnOD0SJDRiNjA2YmIzLWMwMTItNDk0ZS04ZGRmLTc2ZGM1MmQ2ODQyZhgAIAAoADC9q7b+tjE42Mqf9+UwQNjKn/flMEocT3lLN0RoaGluelI4bS9HY1ZKNEVpVUNzaXUwPVofIh37QWZCUUNkOXk2V2g1LzVuM0FWSjc5NExab0lVPWXTlYKnEqgBCAgSowEKHHdjZ1dSa1RzSmFjbDcyS005Z1hFYlVsSHhmVT0SJDUyOTEzZDYwLTU2MDEtNGFkZS1hOTE0LWQ1MjExNmViZGY2NxgAIAIoAjDzicLMvTE42Mqf9+UwQLWGwsy9MUocQnFZZmVldjZjalUvQjNhWkttcVBjQU9abFNNPVofIh3aRUhOQmdyamJHVS84Rm4zZTcyTDJ5bW5mNjA0PWXUTOjQEqkBCBESpAEKHHJUZnVTb25PUXFVVlZ0VlBCOTQ1MVY1bWNaUT0SJDUzNjhlODMzLWZmNzktNDY5My05NzU2LTM3OWEzOWY1MTJlYhgAIAAoADDitqH35TA42Mqf9+UwQNjKn/flMEocUms5VXFQcVowQzVyMDFVSktFNUJOZ1J1VG44PVogIh7//mY5bFFVU2twL3BUZDUwem5oVDFIbDJWY1NzOD1lAAAAABKoAQgKEqMBChw0Qit4a00zWUJSbEM0L3kzakdiamlma3h2WFE9EiQ1M2Y3YmQzYi0zZGJkLTQxOWYtOTNlZi0zYjdjM2FlMmU2MjkYACAAKAAwtKu2/rYxOJOo1YrsMECTqNWK7DBKHFBUMlhnajBlRXJZNWUzOHQwTDUvYnJFTFN2Yz1aHyId+EFrQWdyRDhOZTQ4MEJTQ0thVjJ5MG9jcU80OD1lFaQAShKrAQgcEqYBChxna3ZlZllDVDJSU0dQeTdrVVJjNDNkWGU0ZDA9EiQ2MjQ4ZjFmMi1kOTU1LTRkZDYtOGVhOC0yMTlmMzIxODM4OGYYACAAKAAw562s9ZYxOOGXrPWWMUDhl6z1ljFKHGJhUkorbS9TSUpPZjJ4VVUralJPOC9wRThzWT1aIiIg////6jExcGdLWjg2ckZGY0pzRzFFNzBIUUlYYytWbz1lAAAAABKoAQgHEqMBChw3a0pSbG9JYitONmJrR25DaHNyUHVCSGMxT3c9EiQyZjIwN2I3Zi01N2YzLTRkM2MtYTlhNS1lMzY3MDMyZWJhYTEYACACKAIw6YnCzL0xONfKn/flMEC1hsLMvTFKHGNOWFBEdS9rTDZCVXFMdExYOGNEeGsvOGZuaz1aHyIdtWtWbkM5RWd4ZGpiRHE1ZjA5WG9hWnczN01sQT1l1Ezo0BKnAQgGEqIBChxidllLNWNzSU54anZvRHo2ajhVYW9KclIya1k9EiQxMmQxOTNhYy0xYjgwLTQzZGMtYWMzMy1lZDU0YzM4YjQzYjAYACACKAIw7YnCzL0xONfKn/flMECshsLMvTFKHDREZUJjSFUxWmR6bGN0Y1pHVERoaTR3UlBpTT1aHiIca3B2UWFoL055blhocDZGTTJqSVRSWmhZT2NrPWV6nwC+EqcBCAUSogEKHE9Bb3ZPWHpQN0FyUmdORHNkMGxOKzU3MnZNMD0SJDIyZjY2ZWIyLTE4MTgtNDI0NS1iNjE0LTViMTg2MTJjZTZjNBgAIAIoAjDjicLMvTE418qf9+UwQKyGwsy9MUocQ0hpOTZxQzQwUUpaL0hhMHR5QzIxQ1JxdlRzPVoeIhw0bGlMay8wUXMzb2FYamkrbUlBSFQrajd3WUU9ZdRM6NASqAEIDBKjAQocSHpvcHRjNWhqM0U4b0h4MnFHd0FGVGFiY0xvPRIkNTQwZWJiOTYtMjJkMS00NjkzLThjM2UtZTFlMGFkM2YwYzUwGAAgACgAMJa3offlMDjYyp/35TBA2Mqf9+UwShx5aml6ZmR5b1NtTjJqYTdnS29xK0ZKR1h3VG89Wh8iHf91ZFdqamx6bExhUldjYXVuNlpOZ3Y1MmFMT1U9ZQAAAAASgwEIARJ/Chx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQzZmJmZjU0Ny1jOWE1LTQ1YmEtYWEyMC0xYWEyMmRkNzViNzcYACAAKAAwATjrnqH35TBA656h9+UwShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKDAQgCEn8KHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDYwYzk1ZmY0LTA2NTYtNGIzMy05ZTJhLThjY2JjMmY1ZjdiNRgAIAAoADABOOueofflMEDrnqH35TBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqoBCBUSpQEKHGNpTlYvdUdEcE9XSkx4VWpzbStBR3hoZnpwTT0SJGEzOTBmZTc4LWMyZDYtNGZjNy1hY2M2LTdlOWVlMGIyOGI2ZBgAIAAoADC0t6H35TA42Mqf9+UwQNjKn/flMEocU3VnVEJsdkQ2RGkyTk1KSXFkSURWSlY1anV3PVohIh///9tPazBPbkcxNkhKS0hjNmdVZFdyY21EWDdYY0U9ZQAAAAASqQEIDRKkAQocazRkUWVsUVdSVEpUSEVNcFdHUVAvd3N4UlZnPRIkNzMwZGE2MDgtNDA3MS00YTlmLThhN2YtYTc2YjRiNGU2YjQ0GAAgACgAMIu2offlMDjYyp/35TBA2Mqf9+UwShxZaThHdHBEYTNqTi9sSlU4V0FVRms4QUo4ZVU9WiAiHv/ueE9hUlNTUGdkdHMweFN1bGVJYlRJTmdaL0c4PWUAAAAAEoMBCAMSfwocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkNjE3NGUyODctMWVhYS00YjY3LWE4ZjMtZDk0NGJkMmQyZmE2GAAgACgAMAE4656h9+UwQOueofflMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwATgA",
+   "version": 1
+}

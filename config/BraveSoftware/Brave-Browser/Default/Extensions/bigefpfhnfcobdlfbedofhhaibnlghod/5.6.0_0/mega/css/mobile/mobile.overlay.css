@@ -1,0 +1,138 @@
+
+.overlay-wrap{
+	align-items:center;
+	background:var(--mobile-background-blur);
+	display:flex;
+	flex-direction:column;
+	height:100%;
+	justify-content:flex-end;
+	left:0;
+	position:fixed;
+	top:0;
+	transition:visibility .2s ease-out;
+	visibility:hidden;
+	width:100%;
+	z-index:101
+}
+.mega-sheet.overlay-wrap{
+	z-index:1201
+}
+.overlay-wrap.active{
+	visibility:visible
+}
+.mega-overlay.active .overlay{
+	transform:translateY(0)
+}
+.mega-overlay .overlay{
+	background:var(--mobile-page-background);
+	box-sizing:border-box;
+	display:flex;
+	flex-direction:column;
+	height:100%;
+	padding:24px;
+	transform:translateY(100%);
+	transition:transform .2s ease-out;
+	width:100%
+}
+.mega-overlay.mega-overlay-view{
+	height:fill-available;
+	height:-webkit-fill-available;
+	position:absolute
+}
+.mega-overlay.mega-overlay-view .overlay{
+	padding:0
+}
+.mega-overlay.mega-overlay-view .mega-bottom-bar{
+	position:relative
+}
+.overlay-wrap .nav-elem.close{
+	margin-left:auto;
+	padding:0
+}
+.overlay-wrap .main{
+	align-items:center;
+	display:flex;
+	flex-direction:column;
+	height:100%;
+	overflow:hidden;
+	padding:0;
+	width:100%
+}
+.mega-overlay.overlay-wrap .title{
+	align-self:flex-start
+}
+.overlay-wrap .title h1{
+	font:var(--mobile-font-heading-h1)
+}
+.overlay-wrap .title h2{
+	font:var(--mobile-font-heading-h2)
+}
+.overlay-wrap .title h1,.overlay-wrap .title h2{
+	color:var(--mobile-text-primary);
+	margin:0
+}
+.mega-overlay.overlay-wrap .title.centered{
+	align-self:center
+}
+.overlay-wrap .subtitle{
+	margin-top:-8px
+}
+.overlay-wrap .subtitle span{
+	color:var(--mobile-text-secondary);
+	font:var(--mobile-font-copy-regular)
+}
+.overlay-wrap .content{
+	color:var(--mobile-text-primary);
+	font:var(--mobile-font-copy-regular);
+	width:100%
+}
+.overlay-wrap .actions{
+	align-items:center;
+	display:flex;
+	flex-direction:column;
+	padding:0;
+	width:100%
+}
+.mega-overlay .overlay>.close,.overlay-wrap .main>:not(:last-child){
+	margin-bottom:16px
+}
+.mega-overlay:not(.action-button-bottom) .overlay>.actions,.overlay-wrap .actions>:not(:first-child){
+	margin-top:16px
+}
+.overlay-wrap .actions .button{
+	height:48px;
+	max-width:382px;
+	width:100%
+}
+.overlay-wrap .image{
+	--icon-size:80px;
+	color:var(--mobile-icon-primary)
+}
+.overlay-wrap .actions .button span{
+	font-weight:var(--mobile-font-weight-semibold)
+}
+.overlay-wrap .actions:empty,.overlay-wrap .content:empty,.overlay-wrap .image:empty,.overlay-wrap .subtitle:empty,.overlay-wrap .title:empty{
+	display:none
+}
+.overlay-wrap.action-button-bottom .content{
+	padding-bottom:16px
+}
+.overlay-wrap.action-button-bottom .overlay{
+	padding-bottom:81px
+}
+.overlay-wrap.action-button-bottom .actions{
+	bottom:0;
+	box-sizing:border-box;
+	left:0;
+	position:fixed;
+	right:0
+}
+.overlay-wrap.action-button-bottom .actions>button{
+	margin:0 24px 24px;
+	width:calc(100% - 48px)
+}
+@media only screen and (orientation:landscape) and (max-height:359px){
+.overlay-wrap i.icon{
+	display:none
+}
+}

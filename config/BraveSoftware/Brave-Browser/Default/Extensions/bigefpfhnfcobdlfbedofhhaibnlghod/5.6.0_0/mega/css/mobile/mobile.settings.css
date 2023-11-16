@@ -1,0 +1,47 @@
+.mega-mobile-settings{
+	align-items:flex-start;
+	display:flex;
+	flex-flow:column nowrap;
+	justify-content:flex-start
+}
+.mega-mobile-settings .mega-component span{
+	font:var(--mobile-font-link-large-regular)
+}
+.mega-mobile-settings .settings-heading{
+	font:var(--mobile-font-heading-h2);
+	margin:0;
+	padding:24px
+}
+.mega-mobile-settings.notifications .content-txt{
+	color:var(--mobile-text-primary)
+}
+body.bottom-pages .fmholder{
+	grid:initial
+}
+.mobile .two-factor-page .two-factor-body-text,.mobile .two-factor-page .two-factor-heading{
+	text-align:left
+}
+.mobile.old-page{
+	background-color:#fff
+}
+.mobile .main-block,.mobile .my-account-page,.mobile .old-page{
+	grid-column:-2 /  -1;
+	grid-row:-2 /  -1
+}
+.mobile .affiliate-guide-page,.mobile .affiliate-history-page,.mobile .affiliate-page{
+	background:#f5f6f7
+}
+.mobile .affiliate-redeem-page{
+	height:100%;
+	overflow:auto
+}
+.mobile.main-block.account-file-management-page .notification-setting-row{
+	padding-left:20px
+}
+.mobile.context-menu-container .fm-icon{
+	display:inline-block;
+	margin:0 8px;
+	vertical-align:middle
+}
+
+

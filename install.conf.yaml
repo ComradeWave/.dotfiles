@@ -8,18 +8,18 @@
 	path:  zshenv
 	create: true
     ~/.config/:
-	path: .config/**
+	path: config/**
 	glob: true
 	create: true
-    ~/themes/:
-	path: .themes/**
+    ~/.themes/:
+	path: themes/**
 	glob: true
 	create: true
     ~/.p10k.zsh: 
-	path: .p10k.zsh
+	path: p10k.zsh
 	create: true
-    ~/.local/:
-	path: .local/**
+    ~/wallpapers/:
+	path: wallpapers/**
 	create: true
     
 	

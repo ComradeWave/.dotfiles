@@ -1,0 +1,32 @@
+{
+   "description": "Space Catboy: By Subin Yang",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjeFM0pEVpKospXFSgbW2nCwgBXDzDwrhQ6y1jAj4aaY9mNoDTeC+duwGxVL52lmqoVgF3Q0i/yUSyqLLwAE3wE0kxtd+HV/QH73UOB0DAr3CSTZCErVFvDEgidCXT2dF6UI4L4FGJUWN49JAsik0Y5PEOQCeglZyqZyN7szB0bCx6AV1IgUcuTO+E+fGpwHufm/YxF+uUwW+wCpSM9VV+ttY9bh9k8y54bWHxQdXt2fshifxdwPtC65UpE5kS0E3TzWNmZGm8VQN85H6dByRkU/50cZSB44saOcQ849KQymOMpqIV0sQHbMkl+G/kf+zhpPtE41aoasrRgsLLEqYnQIDAQAB",
+   "manifest_version": 3,
+   "name": "Space Catboy",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "frame": [ 0, 0, 0 ],
+         "ntp_background": [ 50, 210, 201 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 64, 64, 64 ]
+      },
+      "images": {
+         "theme_ntp_background": "Space Catboy_cws_1366x768.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "top",
+         "ntp_background_repeat": "none",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+         "buttons": [ 1, 1, 1 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ -1, -1, -1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1"
+}

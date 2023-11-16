@@ -1,0 +1,116 @@
+.mobile-rack.banner-rack{
+	align-content:center;
+	align-items:center;
+	flex-flow:column-reverse nowrap;
+	justify-content:center
+}
+.mega-component.banner{
+	align-content:center;
+	align-items:flex-start;
+	box-sizing:border-box;
+	color:var(--mobile-text-primary);
+	display:flex;
+	flex-flow:row nowrap;
+	font:var(--mobile-font-caption-regular);
+	justify-content:space-between;
+	overflow:hidden;
+	padding:24px;
+	top:0;
+	transition:top 1s ease-in;
+	width:100%
+}
+.mega-component.banner>:not(:last-child){
+	-webkit-margin-end:8px;
+	margin-inline-end:8px
+}
+.mega-component.advertisement>:not(:last-child){
+	-webkit-margin-end:16px;
+	margin-inline-end:16px
+}
+.mega-component.banner,.mega-component.banner.alert{
+	border-radius:0
+}
+.mega-component.banner.inline{
+	border-radius:var(--mobile-border-radius-medium);
+	overflow:initial
+}
+.mega-component.banner .content-box{
+	-webkit-margin-end:auto;
+	align-items:flex-start;
+	display:flex;
+	flex-flow:column nowrap;
+	margin-inline-end:auto;
+	order:5
+}
+.mega-component.banner .end-box{
+	align-content:center;
+	align-items:flex-end;
+	display:flex;
+	flex-flow:column nowrap;
+	justify-content:center;
+	order:10
+}
+.mega-component.banner .content-box>span{
+	margin-bottom:8px
+}
+.mega-component.banner .content-box>span:empty{
+	margin-bottom:0
+}
+.mega-component.banner .button.icon-only{
+	align-self:flex-start;
+	justify-self:flex-end;
+	margin-left:auto;
+	order:1;
+	padding:0
+}
+.mega-component.banner .button.action-link .primary-text,.mega-component.banner .message-text .clickurl{
+	color:var(--mobile-link-primary);
+	font:var(--mobile-font-copy-semibold);
+	text-decoration:underline
+}
+.mega-component.banner .title-text{
+	color:var(--mobile-text-primary);	
+	font:var(--mobile-font-heading-h3)
+}
+.mega-component.banner .message-text{
+	color:var(--mobile-text-primary);
+	font:var(--mobile-font-copy-regular)
+}
+.mega-component.banner .banner.left-icon.icon-size-24{
+	--icon-size:24px
+}
+.mega-component.banner .banner.left-icon.icon-size-48{
+	--icon-size:48px
+}
+.mega-component.banner .banner.left-icon{
+	--icon-size:24px;
+	color:var(--icon-color);
+	order:1
+}
+.mega-component.banner .banner.right-icon{
+	--icon-size:96px;
+	align-self:center;
+	grid-area:right-icon;
+	justify-self:flex-end;
+	order:10
+}
+.mega-component.banner,.mega-component.banner.info{
+	--icon-color:var(--mobile-support-info);
+	background-color:var(--mobile-notification-info)
+}
+.mega-component.banner.success{
+	--icon-color:var(--mobile-support-success);
+	background-color:var(--mobile-notification-success)
+}
+.mega-component.banner.warning{
+	--icon-color:var(--mobile-support-warning);
+	background-color:var(--mobile-notification-warning)
+}
+.mega-component.banner.error{
+	--icon-color:var(--mobile-support-error);
+	background-color:var(--mobile-notification-error)
+}
+.mega-component.banner.advertisement{
+	--icon-color:var(--mobile-support-info);
+	background-color:var(--mobile-surface-2)
+}

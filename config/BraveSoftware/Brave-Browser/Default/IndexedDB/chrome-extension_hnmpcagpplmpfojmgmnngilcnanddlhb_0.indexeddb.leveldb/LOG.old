@@ -1,0 +1,7 @@
+2023/11/16-20:17:29.357 6573 Reusing MANIFEST /home/wave/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/16-20:17:29.357 6573 Recovering log #4
+2023/11/16-20:17:29.358 6573 Reusing old log /home/wave/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/000004.log 
+2023/11/16-20:17:30.633 6575 Level-0 table #8: started
+2023/11/16-20:17:30.644 6575 Level-0 table #8: 3564 bytes OK
+2023/11/16-20:17:30.647 6575 Delete type=0 #4
+2023/11/16-20:17:30.648 6562 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

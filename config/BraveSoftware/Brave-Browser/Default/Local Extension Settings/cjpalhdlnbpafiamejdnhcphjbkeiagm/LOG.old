@@ -1,0 +1,17 @@
+2023/11/16-20:17:40.476 6562 Creating DB /home/wave/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm since it was missing.
+2023/11/16-20:17:40.494 6562 Reusing MANIFEST /home/wave/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2023/11/16-20:17:54.516 6563 Level-0 table #5: started
+2023/11/16-20:17:54.599 6563 Level-0 table #5: 1856912 bytes OK
+2023/11/16-20:17:54.603 6563 Delete type=0 #3
+2023/11/16-20:18:19.823 6573 Level-0 table #7: started
+2023/11/16-20:18:19.906 6573 Level-0 table #7: 1713520 bytes OK
+2023/11/16-20:18:19.910 6573 Delete type=0 #4
+2023/11/16-20:18:25.135 6562 Level-0 table #9: started
+2023/11/16-20:18:25.270 6562 Level-0 table #9: 1950144 bytes OK
+2023/11/16-20:18:25.275 6562 Delete type=0 #6
+2023/11/16-20:18:40.063 6562 Level-0 table #11: started
+2023/11/16-20:18:40.104 6562 Level-0 table #11: 1786914 bytes OK
+2023/11/16-20:18:40.118 6562 Delete type=0 #8
+2023/11/16-20:20:51.311 6563 Level-0 table #13: started
+2023/11/16-20:20:51.385 6563 Level-0 table #13: 3444741 bytes OK
+2023/11/16-20:20:51.388 6563 Delete type=0 #10

@@ -1,0 +1,251 @@
+{
+    "layer": "bottom",
+    "position": "top",
+    "margin-top": 20,
+    "margin-left": 25,
+    "margin-right": 25,
+
+
+    "modules-left": ["tray", "sway/scratchpad", "custom/launcher", "sway/workspaces", "sway/mode", "sway/window"],
+    "modules-center": ["custom/weather", "custom/stub", "clock", "custom/stub", "custom/vnc", "custom/playerctl"],
+    "modules-right": ["sway/language", "custom/stub","backlight", "custom/stub","memory", "custom/stub","battery", "custom/stub","network", "custom/stub","pulseaudio", "custom/power"],
+
+    "sway/mode": {
+        "format": "<span style=\"italic\">{}</span>"
+    },
+
+    "sway/scratchpad": {
+        "format": "{icon} {count}",
+        "show-empty": false,
+        "format-icons": ["", ""],
+        "tooltip": true,
+        "tooltip-format": "{app}: {title}"
+    },
+
+    "sway/workspaces": {
+        "disable-scroll": true,
+        "all-outputs": true,
+        "format": "{icon}",
+        /*"format-icons": {
+            "1": "",
+            "2": "",
+            "3:term": "",
+            "4:work": "",
+            "5:music": "",
+            "6:docs": "",
+            "urgent": "",
+            "focused": "‒",
+            "default": "•"        
+        } */
+    },
+
+    "sway/window": {
+        "icon": false,
+        "format": "{}"
+    },
+
+    "sway/language": {
+         "format": "  {}"
+    },
+
+    "mpris": {
+	    "format": ": {player_icon} {dynamic}",
+	    "format-paused": ": {status_icon} <i>{dynamic}</i>",
+	    "player-icons": {
+	    	"default": "▶",
+	    	"mpv": "🎵"
+	    },
+        "dynamic-len": 10,
+	    "status-icons": {
+	    	"paused": "⏸"
+	    },
+	    // "ignored-players": ["firefox"]
+    },
+
+    "custom/spotify": {
+         "exec": "/usr/bin/python3 ~/.config/waybar/scripts/mediaplayer.py --player spotify",
+         "format": " {} ",
+         "return-type": "json",
+         "on-click": "playerctl play-pause",
+         "on-scroll-up": "playerctl next",
+         "on-scroll-down": "playerctl previous"
+     },
+
+    "custom/playerctl": {
+      "interval": "once",
+      "tooltip": true,
+      "return-type": "json",
+      "format": ": {icon} - {}",
+      "format-icons": {
+          "Playing": "⏸",
+          "Paused": "▶"
+      },
+      "max-length": 20,
+      "exec": "playerctl metadata --format '{ \"text\": \"{{markup_escape(title)}} - {{markup_escape(artist)}}\", \"alt\": \"{{status}}\", \"tooltip\": \"{{playerName}}:  {{markup_escape(title)}} - {{markup_escape(artist)}}\" }'",
+      "on-click": "playerctl play-pause; pkill -RTMIN+5 waybar",
+      "on-click-right": "playerctl next; pkill -RTMIN+5 waybar",
+      "on-click-middle": "playerctl previous; pkill -RTMIN+5 waybar",
+      "signal": 5
+    },
+
+    "idle_inhibitor": {
+       "format": "{icon}",
+       "format-icons": {
+            "activated": "",
+            "deactivated": ""
+        }
+    },
+
+    "tray": {
+        "show-passive-items": true,
+        "icon-size": 20,
+        "spacing": 5
+    },
+
+    "clock": {
+        "format": " {:%a %d %b  %H:%M}",	//24 hour format
+        "format-alt": " {:%d/%m/%Y  %H:%M:%S}",
+        "tooltip-format": "<big>{:%B %Y}</big>\n<tt>{calendar}</tt>",
+        "interval": 1
+    },
+
+    "cpu": {
+        "format": "﬙ {usage}%",
+        "on-click": "alacritty -e htop"
+    },
+
+    "memory": {
+        "format": " {used:0.1f}GB",
+        "on-click": "alacritty -e htop"
+    },
+
+    "temperature": {
+        // "thermal-zone": 2,
+        // "hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
+        "critical-threshold": 80,
+        // "format-critical": "{temperatureC}°C ",
+        "format": "{temperatureC}°C "
+    },
+
+    "backlight": {
+        // "device": "acpi_video1",
+        "format": "{icon} {percent}%",
+        "format-icons": ["", "", ""],
+        "on-scroll-down": "brightnessctl -c backlight set 5%",
+        "on-scroll-up": "brightnessctl -c backlight set +5%",
+        "on-click": "~/.config/sway/scripts/light.sh $(cat /tmp/SUNSET_CHANGE_STATE_VAR)"
+    },
+
+    "battery": {
+        "interval": 15,
+        "states": {
+            // "good": 95,
+            "warning": 30,
+            "critical": 15
+        },
+        "format-charging": " {capacity}%",
+        "format": "{icon}  {capacity}%",
+        "format-icons": ["", "", "", "", ""],
+        "tooltip": true
+    },
+
+     "network": {
+        "format": "⚠ Disabled",
+        "format-wifi": " ",
+        "format-ethernet": " {ifname}",
+        "format-disconnected": "⚠ Disconnected",
+        "on-click": "networkmanager_dmenu",
+        "tooltip" : true,
+        "tooltip-format" : "{ifname}\n{ipaddr}",
+        "tooltip-format-wifi" : "{essid} {ifname}\n{ipaddr}\nstrength: {signalStrength}%"
+    },
+
+    "pulseaudio": {
+        "scroll-step": 5,
+        "format": "{icon} {volume}%",
+        "format-bluetooth": "{icon} {volume}%",
+        "format-muted":"muted ",
+        "format-icons": {
+            "headphones": "",
+            "handsfree": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["", ""]
+        },
+        "on-click": "pavucontrol"
+    },
+
+    "custom/stub" : {
+        "format": ":"
+    },
+
+     "custom/launcher": {
+    	   "format":"| {} ",
+    	   "on-click": "exec nwggrid",
+    	   "tooltip": false,
+         "exec" : "echo $USER"
+     },
+
+    "custom/weather": {
+         "format": "{}",
+         "tooltip": true,
+         "interval": 3600,
+         "exec": "$HOME/.config/waybar/scripts/waybar-wttr.py",
+         "return-type": "json"
+    },
+
+   "custom/pacman": {
+        "format": " {}",
+        "interval": 7200,                     // every two hours
+        "exec": "checkupdates | wc -l",       // # of updates
+        "exec-if": "exit 0",                  // always run; consider advanced run conditions
+        "on-click": "alacritty -e sudo pacman -Syu ; pkill -SIGRTMIN+8 waybar", // update system
+        "signal": 8
+    },
+
+    "custom/power": {
+      	"format":" ⏻ ",
+       	"on-click": "nwgbar",
+      	"tooltip": false,
+    },
+
+    "custom/vnc": {
+         "format": "💻 {}",
+         "exec": "$HOME/.config/sway/scripts/vnc_server.sh",
+         "on-click": "$HOME/.config/sway/scripts/vnc_server.sh $(cat /tmp/VNC_CHANGE_STATE_VAR)",
+
+         "return-type": "json",
+		 "tooltip" : true,
+         "interval": "once",
+         "signal": 5
+    },
+
+     // to find keyboard identifier use "swaymsg -t get_inputs"
+    "custom/keyboard-layout": {
+         "format": " {}",
+      	 "tooltip": false,
+         "exec": "$HOME/.config/waybar/scripts/kblayout.sh"
+         // "on-click": "swaymsg exec alacritty -e ~/.config/sway/scripts/keyhint.sh",
+         // "exec": "$HOME/.config/waybar/scripts/kblayout.sh '1:1:AT_Translated_Set_2_keyboard'"
+         // "exec": "$HOME/.config/waybar/scripts/kblayout.sh '6700:3620:SEM_USB_Keyboard'"
+     },
+
+     "wlr/taskbar": {
+        "format": "{icon}",
+        "icon-size": 14,
+        "icon-theme": "Numix-Circle",
+        "tooltip-format": "{title}",
+        "on-click": "activate",
+        "on-click-middle": "close"
+      },
+
+     "custom/arrowL0": {
+    	   "format":""
+      },
+
+     "custom/arrowR0": {
+    	   "format":""
+      },
+}
