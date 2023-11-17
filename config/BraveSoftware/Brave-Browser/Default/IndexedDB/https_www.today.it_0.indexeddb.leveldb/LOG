@@ -1,6 +1,0 @@
-2023/11/16-20:58:03.558 19f4c Creating DB /home/wave/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.today.it_0.indexeddb.leveldb since it was missing.
-2023/11/16-20:58:03.569 19f4c Reusing MANIFEST /home/wave/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.today.it_0.indexeddb.leveldb/MANIFEST-000001
-2023/11/16-20:58:03.587 19f56 Level-0 table #5: started
-2023/11/16-20:58:03.590 19f56 Level-0 table #5: 1290 bytes OK
-2023/11/16-20:58:03.596 19f56 Delete type=0 #3
-2023/11/16-20:58:03.599 19f4c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
