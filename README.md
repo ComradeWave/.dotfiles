@@ -2,7 +2,7 @@
 ## ❤️ This dotfiles fully compatible with vanilla sway, just remove ```./config/sway/config.d/swayfx``` config file
 ### Also check their '[sway keybindings helper](https://github.com/owpk/sway-keyhints)' project  
 - i'll fork and recompile sway-keyhints for legacy devices
-
+#### using DotBot
 - press ```Win + p``` to show keybindigs help (the config was broken lol)
 
 <p align=center style="margin-top:36px">	  
