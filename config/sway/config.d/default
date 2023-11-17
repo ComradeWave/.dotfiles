@@ -81,13 +81,14 @@ bindsym --to-code  {
    # s
    # bindsym --to-code  $mod+s layout stacking
    $mod+s               sticky toggle;
-   $mod+Shift+s		   		split toggle
+   $mod+Shift+s		   		splith
    
    # t
    $mod+t exec telegram-desktop
    # v
    # bindsym --to-code  $mod+v splitv
-   $mod+v               layout tabbed
+   $mod+v               splitv
+   $mod+t               layout tabbed
 
    # w
    $mod+w               exec ~/.config/sway/scripts/chrom.sh
