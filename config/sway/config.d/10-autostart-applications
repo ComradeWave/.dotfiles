@@ -29,7 +29,7 @@ exec "avizo-service"
 # exec python3 ~/.config/sway/scripts/swayfader.py
 
 # Autotiling
-# exec autotiling
+ exec_always autotiling
 
 
 # Gnome Keyring

@@ -1,7 +1,7 @@
 @import '../colors.css';
 
 * {
-    color: @theme_selected_bg_color;
+    color: @theme_selected_bg_color;    
     border: none;
     border-radius: 0px;
     padding: 0 0;
@@ -14,7 +14,9 @@
 }
 
 window#waybar {
-    background: alpha(@theme_bg_color, 0.8);
+    background: alpha(@theme_bg_color, 0.2
+
+);
     transition-property: background-color;
     transition-duration: .5s;
 }

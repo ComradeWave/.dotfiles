@@ -26,8 +26,8 @@ set $menu wofi -c ~/.config/wofi/config -I
 bindsym --to-code  {
    $mod+f1                   reload
 
-   $mod+slash               split vertical; exec $term
-   $mod+Shift+slash         split vertical; exec $term-working-dir
+   #$mod+slash               split vertical; exec $term
+   #$mod+Shift+slash         split vertical; exec $term-working-dir
    $mod+apostrophe	        split horizontal; exec $term
    $mod+Shift+apostrophe	  split horizontal; exec $term-working-dir
 
@@ -48,15 +48,16 @@ bindsym --to-code  {
    $mod+a               focus parent
 
    # b
-   # bindsym --to-code  $mod+b           splith
-   $mod+b               exec brave
+   # bindsym --to-code 
+   $mod+b                    splith
+   $mod+Shift+b              exec brave
    # d
    $mod+d               exec $menu
    $mod+Shift+d         exec $launcher
 
    # e
-   $mod+e               exec ~/.config/sway/scripts/translate.sh ru
-   $mod+Shift+e         exec ~/.config/sway/scripts/translate.sh en
+   # $mod+e               exec ~/.config/sway/scripts/translate.sh ru
+   # $mod+Shift+e         exec ~/.config/sway/scripts/translate.sh en
 
    # f
    $mod+f               fullscreen
@@ -79,16 +80,16 @@ bindsym --to-code  {
    $mod+q               kill
 
    # s
-   # bindsym --to-code  $mod+s layout stacking
-   $mod+s               sticky toggle;
-   $mod+Shift+s		   		splith
+   # bindsym --to-code  $mod+s                layout stacking
+   # $mod+s               sticky toggle;
+   # $mod+Shift+s		   		split toggle
    
    # t
    $mod+t exec telegram-desktop
+   
    # v
    # bindsym --to-code  $mod+v splitv
-   $mod+v               splitv
-   $mod+t               layout tabbed
+   # $mod+v               layout tabbed
 
    # w
    $mod+w               exec ~/.config/sway/scripts/chrom.sh
