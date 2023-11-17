@@ -6,8 +6,8 @@
 - press ```Win + p``` to show keybindigs help (the config was broken lol)
 
 <p align=center style="margin-top:36px">	  
-  <img src="https://img.shields.io/github/issues/owpk/dotfiles-swayfx?color=bf616a&labelColor=202328&style=for-the-badge">
-  <img src="https://img.shields.io/github/issues-pr/owpk/dotfiles-swayfx?color=c792ea&labelColor=202328&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/ComradeWave/.dotfiles?color=bf616a&labelColor=202328&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues-pr/ComradeWave/.dotfiles?color=c792ea&labelColor=202328&style=for-the-badge">
 </p>
 
 <p align="center">
