@@ -87,6 +87,7 @@ sudo yay -S wlsunset
 sudo yay -S sworkstyle
 sudo yay -S azote
 sudo yay -S audio-recorder
+sudo yay -S autotiling
 ```
 ---
 (Optional) install ranger devicons
