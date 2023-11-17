@@ -42,8 +42,8 @@ sudo usermod -a -G video $USER
 ```
 2. clone dotfiles and change current directory to project directory (do any steps below from it)
 ```
-git clone https://github.com/owpk/dotfiles-swayfx
-cd dotfiles-swayfx
+git clone https://github.com/ComradeWave/.dotfiles
+cd .dotfiles
 ```
 3. change shell to zsh
 ```
@@ -65,19 +65,8 @@ sudo pacman -R --no-confirm xterm
 ```
 4.1 create all needed links and copy fonts
 ```
-sudo mkdir /usr/share/fonts/TTF 2> /dev/null
-sudo cp ./fonts/* /usr/share/fonts/TTF/
-sudo cp ./config/sway/scripts/floating /usr/local/bin
-
-fc-cache
-ln -s `pwd`/.zshenv ~/.zshenv
-ln -s `pwd`/.config/zsh/.zshrc ~/.zshrc
-ln -s `pwd`/.p10k.zsh ~/.p10k.zsh
-ln -s `pwd`/.config ~/.config
-ln -s `pwd`/.vim ~/.vim
-ln -s `pwd`/.themes ~/.themes
-ln -s /bin/alacritty /bin/xterm
-cp .azotebg ~/.azotebg
+chmod +x ./install
+./install 
 ```
 
 5. install 'yay'
