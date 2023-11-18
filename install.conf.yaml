@@ -5,22 +5,20 @@
     ~/.bashrc: bashrc
     ~/.bash_logout: bash_logout
     ~/.zshenv:
-	path:  zshenv
-	create: true
+        path:  zshenv
+        create: true
     ~/.config/:
-	path: config/**
-	glob: true
-	create: true
+        path: config/**
+        glob: true
+        create: true
     ~/.themes/:
-	path: themes/**
-	glob: true
-	create: true
+        path: themes/**
+        glob: true
+        create: true
     ~/.p10k.zsh: 
-	path: p10k.zsh
-	create: true
+        path: p10k.zsh
+        create: true
     ~/wallpapers/:
-	path: wallpapers/**
-	create: true
-    
-	
-
+        path: wallpapers/**
+        glob: true
+        create: true
