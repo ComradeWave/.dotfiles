@@ -22,7 +22,7 @@
 - [wofi (menus/launchers)](https://hg.sr.ht/~scoopta/wofi)
 - [mako (wayland notification daemon)](https://github.com/emersion/mako)
 - [avizo (wayland overlay bar)](https://github.com/misterdanb/avizo)
-- [aura (AUR helper)](https://github.com/fosskers/aura)
+- [yay (AUR helper)](https://github.com/Jguer/yay)
 - [alacritty (shell)](https://github.com/alacritty/alacritty)
 - [wf-recorder (screen recording)](https://github.com/ammen99/wf-recorder)
 - [wl-clipboard (clipboard)](https://github.com/bugaevc/wl-clipboard)
